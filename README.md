@@ -86,4 +86,4 @@ limitations under the License.
 ```
 
 [gem]: https://rubygems.org/gems/vagrant-berkshelf-nochefdk
-[travis]: https://travis-ci.org/berkshelf/vagrant-berkshelf
+[travis]: https://travis-ci.org/berkshelf/vagrant-berkshelf-nochefdk
